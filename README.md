@@ -27,7 +27,11 @@ A sleek and modern web application to search and view GitHub user profiles by si
 |--------|-----------------|
 | ![Search](screenshots/search.png) | ![Profile](screenshots/profile.png) |
 
-*(Optional: Add actual screenshots in a `screenshots/` folder in your repo)*
 
-## 📁 Project Structure
+## 🧑‍💻 Getting Started
+
+ Clone the repository:
+   ```bash
+   git clone https://github.com/Soumendra-Barick/GitHub-User-Finder.git
+   ```
 
