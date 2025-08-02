@@ -21,13 +21,6 @@ A sleek and modern web application to search and view GitHub user profiles by si
 - **JavaScript**
 - **GitHub REST API v3**
 
-## 📷 Screenshots
-
-| Search | Profile Display |
-|--------|-----------------|
-| ![Search](screenshots/search.png) | ![Profile](screenshots/profile.png) |
-
-
 ## 🧑‍💻 Getting Started
 
  Clone the repository:
